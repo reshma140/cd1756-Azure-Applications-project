@@ -34,3 +34,4 @@ login = LoginManager(app)
 login.login_view = 'login'
 
 import FlaskWebProject.views
+
